@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
 
-<!--
-**RafaXml/RafaXml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo !! Eu sou o Rafael programador mobile 😀
+<img height = 180em src="https://github-readme-stats.vercel.app/api?username=RafaXml&theme=gruvbox&show_icons=true"/>  
+<img height = 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaXml&layout=compact&langs_count=7&theme=gruvbox"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<div>
+
+ ### 💻 Conhecimentos 
+  
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌟 Conhecimentos no Futuro 
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+ ![Snake animation](https://github.com/rafaballerini/RafaXml/blob/output/github-contribution-grid-snake.svg)
