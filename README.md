@@ -22,4 +22,4 @@
 
 </div>
 
- ![Snake animation](https://github.com/rafaballerini/RafaXml/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RafaXml/RafaXml/blob/output/github-contribution-grid-snake.svg)
