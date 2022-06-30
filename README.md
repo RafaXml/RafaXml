@@ -1,7 +1,8 @@
 <div>
 
 ## Bem vindo !! Eu sou o Rafael programador Front-End 😀
-<img height = 150em src="https://github-readme-stats.vercel.app/api?username=RafaXml&theme=gruvbox&show_icons=true"/>  
+<img height = 150em src="https://github-readme-stats.vercel.app/api?username=RafaXml&theme=gruvbox&show_icons=true"/>
+<img height = 150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaXml&layout=compact&theme=gruvbox"/>  
 
 
 </div>
@@ -22,5 +23,4 @@
 
 </div>
 
- <!--![Snake animation](https://github.com/RafaXml/RafaXml/blob/output/github-contribution-grid-snake.svg)
->
+![Snake animation](https://github.com/RafaXml/RafaXml/blob/output/github-contribution-grid-snake.svg)
